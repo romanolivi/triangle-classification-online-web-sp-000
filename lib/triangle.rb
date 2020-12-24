@@ -28,4 +28,4 @@ class Triangle
   
 end
 
-romano_triangle = Triangle.new(3,4,5)
+puts romano_triangle = Triangle.new(3,4,5)
