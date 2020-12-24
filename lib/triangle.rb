@@ -27,3 +27,5 @@ class Triangle
   end
   
 end
+
+romano_triangle = Triangle.new(3,4,5)
